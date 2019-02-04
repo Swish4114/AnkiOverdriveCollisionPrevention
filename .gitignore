@@ -1,0 +1,8 @@
+/target/
+/.idea/
+*.iml
+*.log
+*.lck
+/Datas/
+/PythonGUI/.idea/
+carSerialNumberToMac.txt
