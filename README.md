@@ -1,4 +1,4 @@
-# TeamprojektAnkiOverdriveCollisionPrevention
+# AnkiOverdriveCollisionPrevention
 
 A collision prevention project for the [anki overdrive kit](https://www.anki.com/de-de/overdrive) written in java.
 
