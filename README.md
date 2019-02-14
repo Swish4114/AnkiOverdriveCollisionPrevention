@@ -20,3 +20,14 @@ Just run
 ```
 mvn clean package
 ```
+
+# Executing
+
+To start the prevention use
+```
+de.project.dsa.DSACar.main()
+```
+or
+```
+de.project.stopandgo.StopAndGoCar.main()
+```
